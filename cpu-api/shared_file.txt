@@ -1,0 +1,10 @@
+Parent write #0
+Child write #0
+Parent write #1
+Parent write #2
+Child write #1
+Parent write #3
+Child write #2
+Parent write #4
+Child write #3
+Child write #4
